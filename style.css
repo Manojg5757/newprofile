@@ -49,3 +49,9 @@ body{
     border-radius: 8px;
     color: white;
 }
+
+@media (max-width: 1376px) {
+    body {
+      background: red;
+    }
+  }
